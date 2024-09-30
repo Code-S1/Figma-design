@@ -1,0 +1,5 @@
+{
+    "editor.codeActions.triggerOnFocusChange": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1
+}
